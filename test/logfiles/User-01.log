@@ -1,0 +1,18 @@
+2012-11-20 13:16:36 [root:groupadd] sgp(1001)
+2012-11-20 13:16:36 [root:useradd] sgp(1001):sgp(1001):User &:/home/sgp:/usr/local/bin/bash
+2012-11-20 13:16:36 [root:useradd] sgp(1001) home /home/sgp made
+2012-11-20 13:38:32 [root:usermod] sgp(1001):sgp(1001):User &:/home/sgp:/usr/local/bin/bash
+2012-11-21 08:52:20 [root:groupadd] puppet(814)
+2012-11-21 08:52:20 [root:useradd] puppet(814):puppet(814):Puppet Daemon:/nonexistent:/usr/sbin/nologin
+2012-11-21 15:46:10 [root:groupadd] mysql(88)
+2012-11-21 15:46:10 [root:useradd] mysql(88):mysql(88):MySQL Daemon:/var/db/mysql:/usr/sbin/nologin
+2012-11-21 15:47:02 [root:groupadd] ldap(389)
+2012-11-21 15:47:02 [root:useradd] ldap(389):ldap(389):OpenLDAP Server:/nonexistent:/usr/sbin/nologin
+2012-11-21 15:49:06 [root:groupadd] openfire(342)
+2012-11-21 15:49:06 [root:useradd] openfire(342):openfire(342):Openfire Daemon:/nonexistent:/sbin/nologin
+2012-11-22 08:00:37 [root:groupadd] messagebus(556)
+2012-11-22 08:00:37 [root:useradd] messagebus(556):messagebus(556):D-BUS Daemon User:/nonexistent:/usr/sbin/nologin
+2012-11-22 15:07:41 [root:usermod] mysql(88):mysql(88):MySQL Daemon:/var/db/mysql:/sbin/nologin
+2013-02-19 15:06:54 [sgp:usermod] www(80):www(80):World Wide Web Owner:/nonexistent:/usr/local/bin/bash
+2013-07-25 18:01:41 [root:groupadd] redis(535)
+2013-07-25 18:01:41 [root:useradd] redis(535):redis(535):Redis Daemon:/nonexistent:/usr/sbin/nologin

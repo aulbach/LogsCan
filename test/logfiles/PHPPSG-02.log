@@ -1,0 +1,24 @@
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Project::getProjectById( ["1200"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Page::getPageByProjectId( ["0","1200","1"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /projects/all
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: REST_BLACKLISThttp://service1-dev.yesweplay.de
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: REST_BLACKLISThttp://service23-dev.yesweplay.de
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Project::getProjectById( ["1200"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: 12_brandById
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Global/Redis.php:74] [Debug] GlobalCache HIT: /featureflags
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /GrantsProjectObject_1200/PAGE/
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Page::getAllActivePagesByMatchcodeAndProject( ["login\/sso","1200"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Page::getModulesByPageId( ["2031","1200"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Setting::getByNameAndProject( ["sgpsettings","1200",""] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /GrantsProjectObject_1200/PAGE/
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Page::getAllActivePagesByMatchcodeAndProject( ["defaultmodulespage","1200"] )
+Jan  7 17:13:52 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Page::getModulesByPageId( ["2003","1200"] )
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Additionalheader::getAll( ["1200","login\/sso"] )
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Project::getProjectById( ["1201"] )
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Project::getProjectById( ["1202"] )
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Metainformation::getAll( ["1200","\/login\/sso"] )
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Cache/Global/Redis.php:74] [Debug] GlobalCache HIT: /gemini/sso/request/654f09b0d0e37bfe45434dbc001b3d3a898904605498f05881039bb485e2fb13
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Cache/Global/Redis.php:74] [Debug] GlobalCache HIT: /gemini/sso/request/654f09b0d0e37bfe45434dbc001b3d3a898904605498f05881039bb485e2fb13
+Jan  7 17:13:53 sgp PHP: [~/library/Sgp/Cache/Global/Redis.php:50] [Debug] GlobalCache REMOVE: /gemini/sso/request/654f09b0d0e37bfe45434dbc001b3d3a898904605498f05881039bb485e2fb13
+Mar  4 16:51:14 sgp php-fpm[1464]: [NOTICE] fpm is running, pid 1464
+Mar  4 16:51:14 sgp php-fpm[1464]: [NOTICE] ready to handle connections

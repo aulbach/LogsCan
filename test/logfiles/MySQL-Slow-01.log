@@ -1,0 +1,61 @@
+usr/local/libexec/mysqld, Version: 5.5.17-log (Source distribution). started with:
+Tcp port: 0  Unix socket: (null)
+Time                 Id Command    Argument
+/usr/local/libexec/mysqld, Version: 5.5.17-log (Source distribution). started with:
+Tcp port: 0  Unix socket: (null)
+Time                 Id Command    Argument
+/usr/local/libexec/mysqld, Version: 5.5.17-log (Source distribution). started with:
+Tcp port: 0  Unix socket: (null)
+Time                 Id Command    Argument
+/usr/local/libexec/mysqld, Version: 5.5.17-log (Source distribution). started with:
+Tcp port: 0  Unix socket: (null)
+Time                 Id Command    Argument
+# Time: 140115 14:17:39
+# User@Host: root[root] @ localhost []
+# Query_time: 10.028264  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+use sgp_main;
+SET timestamp=1389791859;
+select sleep(10);
+# Time: 140115 14:18:09
+# User@Host: root[root] @ localhost []
+# Query_time: 20.018723  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389791889;
+select sleep(20);
+# Time: 140115 14:32:01
+# User@Host: root[root] @ localhost []
+# Query_time: 11.241379  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389792721;
+select sleep(20);
+# Time: 140115 14:40:45
+# User@Host: root[root] @ localhost []
+# Query_time: 13.099676  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389793245;
+select sleep(20);
+# Time: 140115 14:55:13
+# User@Host: root[root] @ localhost []
+# Query_time: 20.015750  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389794113;
+select sleep(20);
+# Time: 140115 14:55:49
+# User@Host: root[root] @ localhost []
+# Query_time: 20.016295  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389794149;
+select sleep(20);
+# Time: 140115 14:59:55
+# User@Host: root[root] @ localhost []
+# Query_time: 20.016026  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389794395;
+select sleep(20);
+# Time: 140115 15:00:19
+# User@Host: root[root] @ localhost []
+# Query_time: 20.018472  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389794419;
+select sleep(20);
+# Time: 140115 15:01:48
+# User@Host: root[root] @ localhost []
+# Query_time: 20.012590  Lock_time: 0.000000 Rows_sent: 1  Rows_examined: 0
+SET timestamp=1389794508;
+select sleep(20);
+/usr/local/libexec/mysqld, Version: 5.5.17-log (Source distribution). started with:
+Tcp port: 0  Unix socket: (null)
+Time                 Id Command    Argument

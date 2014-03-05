@@ -1,0 +1,9 @@
+014/01/07 15:45:28 [info] 10034#0: *1 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:45:28 [info] 10034#0: *3 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:46:28 [info] 10034#0: *71 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:46:28 [info] 10034#0: *26 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:46:28 [info] 10034#0: *23 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:53:02 [info] 10034#0: *137 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 15:53:02 [info] 10034#0: *139 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 17:13:52 [info] 10034#0: *294 kevent() reported that client 127.0.0.2 closed keepalive connection
+2014/01/07 17:13:52 [info] 10034#0: *296 kevent() reported that client 127.0.0.2 closed keepalive connection

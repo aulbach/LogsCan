@@ -1,0 +1,35 @@
+an  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:59] [Debug] TierCache HIT: /translations/12/de
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Translation::getLanguageTranslation( ["de","12"] )
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Cache/Tier/Redis.php:97] [Debug] TierCache SAVE: /translations/12/de (TTL: 0)
+Jan  7 15:53:28 sgp PHP: [~/library/Sgp/Rest/Server.php:168] [Service] REST-Call, Sgp_Service_Rest_Mam_Variant::getVariantWithReferences( ["6169","1200","de"] )

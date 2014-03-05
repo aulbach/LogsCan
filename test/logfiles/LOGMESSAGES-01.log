@@ -1,0 +1,58 @@
+Jan  7 18:00:00 sgp newsyslog[12915]: logfile turned over due to size>100K
+Jan  7 18:24:50 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  8 11:01:53 sgp kernel: em1: link state changed to DOWN
+Jan  8 11:01:53 sgp kernel: em0: link state changed to DOWN
+Jan  8 11:01:53 sgp kernel: em2: link state changed to DOWN
+Jan  8 11:01:53 sgp kernel: em1: link state changed to UP
+Jan  8 11:01:53 sgp kernel: em0: link state changed to UP
+Jan  8 11:01:53 sgp kernel: em2: link state changed to UP
+Jan  8 11:01:55 sgp ntpd[1399]: sendto(193.138.112.10) (fd=22): No route to host
+Jan  8 11:01:55 sgp ntpd[1399]: Deleting interface #16 em0, 192.168.217.131#123, interface stats: received=551, sent=982, dropped=1, active_time=26284 secs
+Jan  8 11:01:56 sgp dhclient: New IP Address (em0): 192.168.217.131
+Jan  8 11:01:56 sgp dhclient: New Subnet Mask (em0): 255.255.255.0
+Jan  8 11:01:56 sgp dhclient: New Broadcast Address (em0): 192.168.217.255
+Jan  8 11:01:56 sgp dhclient: New Routers (em0): 192.168.217.2
+Jan  8 11:01:58 sgp ntpd[1399]: Listening on interface #17 em0, 192.168.217.131#123 Enabled
+Jan  8 11:03:07 sgp ntpd[1399]: Connection re-established to 193.138.112.10
+Jan  8 11:03:07 sgp ntpd[1399]: kernel time sync status change 6001
+Jan  8 11:06:18 sgp ntpd[1399]: kernel time sync status change 2001
+Jan  8 11:12:10 sgp sshd[13169]: Accepted publickey for sgp from 192.168.217.1 port 51532 ssh2
+Jan  8 11:13:48 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  8 11:22:48 sgp sshd[13171]: Received disconnect from 192.168.217.1: 11: disconnected by user
+Jan  8 11:22:56 sgp sshd[13202]: Accepted publickey for sgp from 192.168.217.1 port 51579 ssh2
+Jan  8 11:23:08 sgp sshd[13207]: Accepted publickey for sgp from 192.168.217.1 port 51582 ssh2
+Jan  8 11:23:10 sgp sshd[13212]: Accepted publickey for sgp from 192.168.217.1 port 51583 ssh2
+Jan  8 16:01:17 sgp sudo:      sgp : TTY=pts/5 ; PWD=/usr/home/sgp/trunk/tests/nginx ; USER=root ; COMMAND=/usr/bin/find / -type f -name *nginx*
+Jan  8 16:01:46 sgp sudo:      sgp : TTY=pts/5 ; PWD=/usr/home/sgp/trunk/tests/nginx ; USER=root ; COMMAND=/usr/bin/find / -type f -name *Socket*
+Jan  8 16:02:04 sgp sudo:      sgp : TTY=pts/5 ; PWD=/usr/home/sgp/trunk/tests/nginx ; USER=root ; COMMAND=/usr/bin/find / -type f -name *Socket*
+Jan  8 17:14:18 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  8 17:20:42 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  8 19:51:07 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  8 19:55:34 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  8 21:00:00 sgp rsyslogd: [origin software="rsyslogd" swVersion="5.10.0" x-pid="10050" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Jan  8 21:20:23 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  8 21:24:29 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  8 22:15:03 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  8 22:29:43 sgp ntpd[1399]: no servers reachable
+Jan  9 08:33:07 sgp ntpd[1399]: Deleting interface #17 em0, 192.168.217.131#123, interface stats: received=1256, sent=1903, dropped=0, active_time=41506 secs
+Jan  9 08:33:08 sgp dhclient: New IP Address (em0): 192.168.217.131
+Jan  9 08:33:08 sgp dhclient: New Subnet Mask (em0): 255.255.255.0
+Jan  9 08:33:08 sgp dhclient: New Broadcast Address (em0): 192.168.217.255
+Jan  9 08:33:08 sgp dhclient: New Routers (em0): 192.168.217.2
+Jan  9 08:33:10 sgp ntpd[1399]: Listening on interface #18 em0, 192.168.217.131#123 Enabled
+Jan  9 10:18:46 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  9 10:18:54 sgp ntpd[1399]: time reset -0.786721 s
+Jan  9 10:18:54 sgp ntpd[1399]: kernel time sync status change 6001
+Jan  9 10:19:25 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  9 10:19:25 sgp ntpd[1399]: kernel time sync status change 2001
+Jan  9 10:22:30 sgp ntpd[1399]: synchronized to 212.18.3.19, stratum 2
+Jan  9 10:23:32 sgp ntpd[1399]: Deleting interface #18 em0, 192.168.217.131#123, interface stats: received=44, sent=56, dropped=0, active_time=897 secs
+Jan  9 10:23:33 sgp dhclient: New IP Address (em0): 192.168.217.131
+Jan  9 10:23:33 sgp dhclient: New Subnet Mask (em0): 255.255.255.0
+Jan  9 10:23:33 sgp dhclient: New Broadcast Address (em0): 192.168.217.255
+Jan  9 10:23:33 sgp dhclient: New Routers (em0): 192.168.217.2
+Jan  9 10:23:35 sgp ntpd[1399]: Listening on interface #19 em0, 192.168.217.131#123 Enabled
+Jan  9 10:27:49 sgp ntpd[1399]: no servers reachable
+Jan  9 10:31:08 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
+Jan  9 10:36:24 sgp ntpd[1399]: time reset -0.778606 s
+Jan  9 10:37:04 sgp ntpd[1399]: synchronized to 193.138.112.10, stratum 2
